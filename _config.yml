@@ -21,7 +21,7 @@ repository: lanboys1225/lanboys1225.github.io # ex. DONGChuan/DONGChuan.github.i
 # The base hostname & protocol for your site
 # For local test, please use http://localhost:4000
 # For production, use your github page url. ex. http://dongchuan.github.io
-url: https://lanboys1225.github.io
+url: https://lanboys1225.github.io/Yummy-Jekyll
 
 ## Gem
 gems:
